@@ -5,7 +5,7 @@ public class git {
 	      int num1 = 5, num2 = 15, sum;
 	      sum = num1 + num2;
 
-	      System.out.println("Sum of 2 numbers: "+sum);
+	      System.out.println("Sum of these two numbers: "+sum);
 	   }
 	}
 
